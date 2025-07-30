@@ -1,5 +1,13 @@
 # Neurodegenerative-Disease-prediction
 
+## Diseases and Gait-Based Diagnosis
+
+| **Disease**              | **Description**                                                                 |
+|--------------------------|----------------------------------------------------------------------------------|
+| **Parkinson’s Disease**  | A progressive neurodegenerative disorder affecting movement due to dopamine loss. |
+| **Huntington’s Disease** | A genetic disorder causing uncontrolled movements, cognitive decline, and mood issues. |
+| **ALS** (Amyotrophic Lateral Sclerosis) | A motor neuron disease causing muscle weakness and paralysis, sparing cognition. |
+
 # Gait Analysis of Neurological Disorders
 
 ## ALS (Amyotrophic Lateral Sclerosis)

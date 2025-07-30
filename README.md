@@ -3,6 +3,8 @@
 # Gait Analysis of Neurological Disorders
 
 ## ALS (Amyotrophic Lateral Sclerosis)
+<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/7744296e-67fb-41f0-a322-a6a7c6053fc3" />
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/a22f4636-cd4a-4bae-9f0d-0cc41a991b43" />
 
 The following graphs display **stance**, **swing**, and **stride** characteristics of a person with ALS.
 
@@ -16,6 +18,10 @@ The following graphs display **stance**, **swing**, and **stride** characteristi
 ---
 
 ## Control (Normal Person)
+<img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/e66d8c97-37d1-41af-a3df-08fe94f390c1" />
+
+<img width="940" height="514" alt="image" src="https://github.com/user-attachments/assets/f6dcbd61-9356-4da8-a1bf-21d8dd6864d3" />
+
 
 The following graphs represent a **normal individual's walking characteristics**:
 
@@ -27,8 +33,11 @@ The following graphs represent a **normal individual's walking characteristics**
 ---
 
 ## Huntington’s Disease
+<img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/1a5673ba-ecbc-4294-a96a-260e44c1efba" />
+<img width="940" height="521" alt="image" src="https://github.com/user-attachments/assets/819d81ab-1c50-465e-940c-b6d3e219c171" />
 
 These graphs show gait characteristics of a person with **Huntington’s Disease**.
+
 
 - Due to **chorea** (involuntary movements caused by damage to the **basal ganglia**), gait patterns are **irregular and unstable**.
 - The **2nd graph** shows **jerky, inconsistent stance, swing, and stride intervals**, reflecting:
@@ -39,15 +48,22 @@ These graphs show gait characteristics of a person with **Huntington’s Disease
 ---
 
 ## Comparative Analysis (Boxplots of 64 Subjects)
+<img width="940" height="440" alt="image" src="https://github.com/user-attachments/assets/02cd3845-f70b-4a60-9a11-e25865db6a5a" />
 
 - **ALS** patients have the **highest stride intervals**.
   - Indicates slow walking with long foot-ground contact.
+<img width="940" height="734" alt="image" src="https://github.com/user-attachments/assets/bb554488-81c0-4f5f-a860-e0e22f334b52" />
+
 - **Huntington’s Disease** shows **more stride asymmetry** (difference between left and right stride intervals).
+<img width="1107" height="361" alt="image" src="https://github.com/user-attachments/assets/a111edf6-0f5a-4b7d-816d-0e6a3b7be879" />
+
 - **Mean stance percentage** (time foot is on ground during gait cycle):
   - **Highest** in ALS
   - Followed by Parkinson’s
   - Then Huntington’s
   - **Lowest** in control subjects
+<img width="1046" height="345" alt="image" src="https://github.com/user-attachments/assets/fd7f32b9-2b9f-4d8e-871a-efe68fbb2fde" />
+
 - **Asymmetry Summary**:
   - **Huntington’s**: Most asymmetric
   - **ALS and Parkinson’s**: Asymmetric at **specific events**

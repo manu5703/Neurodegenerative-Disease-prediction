@@ -8,9 +8,9 @@
 | **Huntington’s Disease** | A genetic disorder causing uncontrolled movements, cognitive decline, and mood issues. |
 | **ALS** (Amyotrophic Lateral Sclerosis) | A motor neuron disease causing muscle weakness and paralysis, sparing cognition. |
 
-**Stride** - one full cycle of walking — from when one foot hits the ground to the next time that same foot hits the ground again.
-**Stance** - The stance phase is the part of the stride when the foot is on the ground. Ideally 60% of gait cycle
-**Swing** - The swing phase is when the foot is in the air, moving forward to take the next step. Ideally 40%
+- **Stride** - one full cycle of walking — from when one foot hits the ground to the next time that same foot hits the ground again.
+- **Stance** - The stance phase is the part of the stride when the foot is on the ground. Ideally 60% of gait cycle
+- **Swing** - The swing phase is when the foot is in the air, moving forward to take the next step. Ideally 40%
 
 # Gait Analysis of Neurological Disorders
 
